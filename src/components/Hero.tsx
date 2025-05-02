@@ -49,7 +49,7 @@ const Hero: React.FC = () => {
                 LinkedIn
               </a>
               <a 
-                href="/special cv.pdf" 
+                href="/udaysepicalCv.pdf" 
                 download
                 className="btn btn-primary"
               >
@@ -70,7 +70,7 @@ const Hero: React.FC = () => {
             <div className="relative">
               <div className="w-64 h-64 md:w-80 md:h-80 rounded-full bg-indigo-100 dark:bg-indigo-900/30 overflow-hidden animate-float">
                 <img
-                  src="/1746085578076.jpg"
+                  src="/udayFormal1.jpg"
                   alt="Ch Yatesh chandra sai"
                   className="w-full h-full object-cover"
                 />
